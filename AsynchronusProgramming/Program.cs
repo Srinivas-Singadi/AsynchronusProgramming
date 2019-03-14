@@ -12,13 +12,13 @@ namespace AsynchronusProgramming
         static void Main(string[] args)
         {
             Console.WriteLine("Downloadig the file");
-           // Download();
+            Download();
             Console.ReadLine();
        
 
         }
 
-        private static async void Download(var x , var y)
+        private static async void Download()
         {
             HttpClient client = new HttpClient();
             var data =await client.GetAsync("https://www.udemy.com/join/login-popup/?next=/home/my-courses/learning/");
