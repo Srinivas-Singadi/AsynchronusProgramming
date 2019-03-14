@@ -18,7 +18,7 @@ namespace AsynchronusProgramming
 
         }
 
-        private static async void Download(int x , int y)
+        private static async void Download(var x , var y)
         {
             HttpClient client = new HttpClient();
             var data =await client.GetAsync("https://www.udemy.com/join/login-popup/?next=/home/my-courses/learning/");
