@@ -26,5 +26,11 @@ namespace AsynchronusProgramming
         }
         
         //one more method frome the other person
+        
+        public void mul()
+        {
+        int a ; 
+            int b ;
+        }
     }
 }
