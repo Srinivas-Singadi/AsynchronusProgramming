@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace AsynchronusProgramming
 {
-    class Class2
+    class Class3
     {
-//added some comment; 
+        
+        //added some commment;
 
+        int a = 9;
+        int b = 0; 
     }
 }

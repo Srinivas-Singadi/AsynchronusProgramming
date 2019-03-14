@@ -8,8 +8,26 @@ namespace AsynchronusProgramming
 {
     class Class1
     {
+        //added comment 
+        public void add ()
+        {
+            int a = 4;
+            int b = 58;
+            int c = a + b;
+        }
+
+        public string sub()
+        {
+              string a = "asdfasdf";
+            return a;
+
+            //added comment 
+        }
+    
+
+
         //added code here 
-        public int add(int a , int b, int c)
+        public int add7(int a , int b, int c)
         {
             var sum = a+b;
             return sum;
@@ -19,13 +37,18 @@ namespace AsynchronusProgramming
             //added soem comments
         }
         
-        public void sub()
+        //public void sub()
+        //{
+        ////int a; int b ;
+        //    int c  = a-b;
+        //}
+        
+        //one more method frome the other person
+        
+        public void mul()
         {
-            int a = 4;
-            int b = 58;
-            int c = a + b; 
-
-
+        int a ; 
+            int b ;
         }
     }
 }
