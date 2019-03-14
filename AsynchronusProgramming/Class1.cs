@@ -8,5 +8,10 @@ namespace AsynchronusProgramming
 {
     class Class1
     {
+        //added code here 
+        public int add()
+        {
+            return 2;
+        }
     }
 }
