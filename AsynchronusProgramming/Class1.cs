@@ -19,9 +19,9 @@ namespace AsynchronusProgramming
             //added soem comments
         }
         
-        public void sub()
+        public void sub(var a , var b)
         {
-        int a; int b ;
+        //int a; int b ;
             int c  = a-b;
         }
         
