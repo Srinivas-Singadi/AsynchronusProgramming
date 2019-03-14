@@ -11,7 +11,7 @@ namespace AsynchronusProgramming
         //added code here 
         public int add(int a , int b )
         {
-            int sum = a+b;
+            var sum = a+b;
             return sum;
         }
     }
