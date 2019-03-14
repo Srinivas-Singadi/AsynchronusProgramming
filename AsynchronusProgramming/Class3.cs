@@ -8,5 +8,8 @@ namespace AsynchronusProgramming
 {
     class Class3
     {
+
+        int a = 9;
+        int b = 0; 
     }
 }
