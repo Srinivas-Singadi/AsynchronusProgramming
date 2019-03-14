@@ -8,5 +8,7 @@ namespace AsynchronusProgramming
 {
     class Class3
     {
+        
+        //added some commment;
     }
 }
