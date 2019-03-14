@@ -9,9 +9,10 @@ namespace AsynchronusProgramming
     class Class1
     {
         //added code here 
-        public int add()
+        public int add(int a , int b )
         {
-            return 2;
+            int sum = a+b;
+            return sum;
         }
     }
 }
