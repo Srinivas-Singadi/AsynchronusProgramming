@@ -9,11 +9,12 @@ namespace AsynchronusProgramming
     class Class1
     {
         //added code here 
-        public int add(int a , int b )
+        public int add(int a , int b, int c)
         {
-            var c = a+b;
-            return c;
-            //here i am going to add one more
+            var sum = a+b;
+            return sum;
+            
+            //added soem comments
         }
     }
 }
