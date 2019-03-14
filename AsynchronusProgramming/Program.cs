@@ -12,7 +12,7 @@ namespace AsynchronusProgramming
         static void Main(string[] args)
         {
             Console.WriteLine("Downloadig the file");
-           // Download();
+            Download();
             Console.ReadLine();
        
 

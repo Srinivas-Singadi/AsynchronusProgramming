@@ -8,6 +8,7 @@ namespace AsynchronusProgramming
 {
     class Class1
     {
+
         public void add ()
         {
             int a = 4;
@@ -24,9 +25,9 @@ namespace AsynchronusProgramming
         }
     
 
-    
+
         //added code here 
-        public int add(int a , int b, int c)
+        public int add7(int a , int b, int c)
         {
             var sum = a+b;
             return sum;
