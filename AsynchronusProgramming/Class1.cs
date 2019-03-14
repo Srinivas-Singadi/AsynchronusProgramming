@@ -12,9 +12,13 @@ namespace AsynchronusProgramming
         {
             int a = 4;
             int b = 58;
-            int c = a + b; 
+            int c = a + b
+        }
 
-
+        public string sub()
+        {
+              string a = "asdfasdf";
+            return a;
         }
     }
 }
