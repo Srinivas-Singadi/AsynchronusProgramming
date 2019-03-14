@@ -18,13 +18,19 @@ namespace AsynchronusProgramming
             
             //added soem comments
         }
-
-        public void sub(int a, int b)
+        
+        public void sub()
         {
         //int a; int b ;
             int c  = a-b;
         }
         
         //one more method frome the other person
+        
+        public void mul()
+        {
+        int a ; 
+            int b ;
+        }
     }
 }
