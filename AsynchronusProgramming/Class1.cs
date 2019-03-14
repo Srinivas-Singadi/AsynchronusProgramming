@@ -8,12 +8,12 @@ namespace AsynchronusProgramming
 {
     class Class1
     {
-
+        //added comment 
         public void add ()
         {
             int a = 4;
             int b = 58;
-            int c = a + b
+            int c = a + b;
         }
 
         public string sub()
@@ -37,11 +37,11 @@ namespace AsynchronusProgramming
             //added soem comments
         }
         
-        public void sub()
-        {
-        //int a; int b ;
-            int c  = a-b;
-        }
+        //public void sub()
+        //{
+        ////int a; int b ;
+        //    int c  = a-b;
+        //}
         
         //one more method frome the other person
         
